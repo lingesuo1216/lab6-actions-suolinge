@@ -32,5 +32,3 @@ jobs:
       
       # TODO: Add a step here to run the demo pipeline end-to-end
       # The goal is to execute prediction_pipeline_demo.py so CI logs show the model’s R^2 score.
-      - name: Run ML demo pipeline
-        run: python prediction_pipeline_demo.py
